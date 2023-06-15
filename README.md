@@ -10,3 +10,5 @@ This should be a straightforward task for someone familiar with React.JS and bui
 * A UI widget that represents the weather data returned from the search API
 
 You will need to create an account and use and API key that is generated for you. The API version 2.5 allows general search text (for a city name) to be given as input.
+
+https://openweathermap.org/current#format
