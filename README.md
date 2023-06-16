@@ -1,10 +1,10 @@
 # React.JS Weather Component
 
-## Description 
+## Code Challenge Question 
 Create a React Component that fetches from the [Open Weather Map API](https://openweathermap.org/api) and displays the weather for any city that the user searches for.
 
 ## Details
-This should be a straightforward task for someone familiar with React.JS and building web components.  The major pieces of functionality are...
+This should be a straightforward task for someone familiar with React and building web components.  The major pieces of functionality are...
 * A component that provides the form input and search button
 * Logic that takes the search text and sends it to the API for lookup
 * A UI widget that represents the weather data returned from the search API
